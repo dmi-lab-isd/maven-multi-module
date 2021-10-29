@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.example.multi</groupId>
+            <groupId>org.labids.multi</groupId>
             <artifactId>core</artifactId>
             <version>${my.version}</version>
         </dependency>
